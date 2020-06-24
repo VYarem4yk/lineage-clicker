@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/lineage-clicker/precache-manifest.33f5f458801b523cff409ce8b146662a.js"
+  "/lineage-clicker/precache-manifest.5b39943ccb107d865ef00a4c01a6f2bc.js"
 );
 
 self.addEventListener('message', (event) => {
