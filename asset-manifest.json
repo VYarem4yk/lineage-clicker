@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/lineage-clicker/LoginPage/static/css/main.4f551947.chunk.css",
-    "main.js": "/lineage-clicker/LoginPage/static/js/main.395063ab.chunk.js",
-    "main.js.map": "/lineage-clicker/LoginPage/static/js/main.395063ab.chunk.js.map",
-    "runtime-main.js": "/lineage-clicker/LoginPage/static/js/runtime-main.46407cad.js",
-    "runtime-main.js.map": "/lineage-clicker/LoginPage/static/js/runtime-main.46407cad.js.map",
-    "static/js/2.30fb586a.chunk.js": "/lineage-clicker/LoginPage/static/js/2.30fb586a.chunk.js",
-    "static/js/2.30fb586a.chunk.js.map": "/lineage-clicker/LoginPage/static/js/2.30fb586a.chunk.js.map",
-    "index.html": "/lineage-clicker/LoginPage/index.html",
-    "precache-manifest.536a739468f458bbade33f998e79b560.js": "/lineage-clicker/LoginPage/precache-manifest.536a739468f458bbade33f998e79b560.js",
-    "service-worker.js": "/lineage-clicker/LoginPage/service-worker.js",
-    "static/css/main.4f551947.chunk.css.map": "/lineage-clicker/LoginPage/static/css/main.4f551947.chunk.css.map",
-    "static/js/2.30fb586a.chunk.js.LICENSE.txt": "/lineage-clicker/LoginPage/static/js/2.30fb586a.chunk.js.LICENSE.txt",
-    "static/media/LoginPage.gif": "/lineage-clicker/LoginPage/static/media/LoginPage.7fa843a6.gif",
-    "static/media/GamePage.css": "/lineage-clicker/LoginPage/static/media/ObeliskOfVictory.d7499955.PNG",
-    "static/media/monster.png": "/lineage-clicker/LoginPage/static/media/monster.dcb928b7.png"
+    "main.css": "/lineage-clicker/static/css/main.26a34810.chunk.css",
+    "main.js": "/lineage-clicker/static/js/main.be93a146.chunk.js",
+    "main.js.map": "/lineage-clicker/static/js/main.be93a146.chunk.js.map",
+    "runtime-main.js": "/lineage-clicker/static/js/runtime-main.9f1d96a7.js",
+    "runtime-main.js.map": "/lineage-clicker/static/js/runtime-main.9f1d96a7.js.map",
+    "static/js/2.30fb586a.chunk.js": "/lineage-clicker/static/js/2.30fb586a.chunk.js",
+    "static/js/2.30fb586a.chunk.js.map": "/lineage-clicker/static/js/2.30fb586a.chunk.js.map",
+    "index.html": "/lineage-clicker/index.html",
+    "precache-manifest.401205855740a985226bec48a3e71763.js": "/lineage-clicker/precache-manifest.401205855740a985226bec48a3e71763.js",
+    "service-worker.js": "/lineage-clicker/service-worker.js",
+    "static/css/main.26a34810.chunk.css.map": "/lineage-clicker/static/css/main.26a34810.chunk.css.map",
+    "static/js/2.30fb586a.chunk.js.LICENSE.txt": "/lineage-clicker/static/js/2.30fb586a.chunk.js.LICENSE.txt",
+    "static/media/LoginPage.gif": "/lineage-clicker/static/media/LoginPage.7fa843a6.gif",
+    "static/media/GamePage.css": "/lineage-clicker/static/media/ObeliskOfVictory.d7499955.PNG",
+    "static/media/monster.png": "/lineage-clicker/static/media/monster.dcb928b7.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.46407cad.js",
+    "static/js/runtime-main.9f1d96a7.js",
     "static/js/2.30fb586a.chunk.js",
-    "static/css/main.4f551947.chunk.css",
-    "static/js/main.395063ab.chunk.js"
+    "static/css/main.26a34810.chunk.css",
+    "static/js/main.be93a146.chunk.js"
   ]
 }
