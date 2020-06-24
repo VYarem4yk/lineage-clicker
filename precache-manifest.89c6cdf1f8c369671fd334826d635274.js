@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b7ee98a56a39448d276f486ed2bca61b",
+    "revision": "2d67b32a5069160bd7a84d5beba8f206",
     "url": "/lineage-clicker/index.html"
   },
   {
-    "revision": "2b72e7debd5af803b1c5",
+    "revision": "e7f919013b3c39d3f9bd",
     "url": "/lineage-clicker/static/css/main.26a34810.chunk.css"
   },
   {
-    "revision": "0c1864e13bba57a892d8",
-    "url": "/lineage-clicker/static/js/2.30fb586a.chunk.js"
+    "revision": "819ab04b6814424576cf",
+    "url": "/lineage-clicker/static/js/2.0e0c78f5.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/lineage-clicker/static/js/2.30fb586a.chunk.js.LICENSE.txt"
+    "url": "/lineage-clicker/static/js/2.0e0c78f5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2b72e7debd5af803b1c5",
-    "url": "/lineage-clicker/static/js/main.be93a146.chunk.js"
+    "revision": "e7f919013b3c39d3f9bd",
+    "url": "/lineage-clicker/static/js/main.d4f0f8ab.chunk.js"
   },
   {
     "revision": "23c0170dde5110d87c86",
