@@ -1,0 +1,26 @@
+.gamePageWrapper {
+  display: grid;
+  grid-template-rows: 10% 70% 20%;
+  width: 100%;
+  height: 100%;
+  background-image: url("../../images/ObeliskOfVictory.PNG");
+  background-size: cover;
+}
+
+.characterBar-wrapper {
+  grid-row: 1/2;
+}
+
+.mainField {
+  display: grid;
+  grid-template-rows: 30% 10% 40% 20%;
+  grid-row: 2/3;
+}
+
+.skillsBar {
+  grid-row: 3/4;
+}
+
+.monster {
+  grid-row: 2/4;
+}
