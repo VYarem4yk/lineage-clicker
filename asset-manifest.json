@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/lineage-clicker/static/css/main.17016939.chunk.css",
-    "main.js": "/lineage-clicker/static/js/main.afa3b931.chunk.js",
-    "main.js.map": "/lineage-clicker/static/js/main.afa3b931.chunk.js.map",
+    "main.css": "/lineage-clicker/static/css/main.a7520e38.chunk.css",
+    "main.js": "/lineage-clicker/static/js/main.c29e317f.chunk.js",
+    "main.js.map": "/lineage-clicker/static/js/main.c29e317f.chunk.js.map",
     "runtime-main.js": "/lineage-clicker/static/js/runtime-main.9f1d96a7.js",
     "runtime-main.js.map": "/lineage-clicker/static/js/runtime-main.9f1d96a7.js.map",
-    "static/js/2.b1da2a78.chunk.js": "/lineage-clicker/static/js/2.b1da2a78.chunk.js",
-    "static/js/2.b1da2a78.chunk.js.map": "/lineage-clicker/static/js/2.b1da2a78.chunk.js.map",
+    "static/js/2.b89a4e70.chunk.js": "/lineage-clicker/static/js/2.b89a4e70.chunk.js",
+    "static/js/2.b89a4e70.chunk.js.map": "/lineage-clicker/static/js/2.b89a4e70.chunk.js.map",
     "index.html": "/lineage-clicker/index.html",
-    "precache-manifest.e8f7b0c5c56473740517927bd8886179.js": "/lineage-clicker/precache-manifest.e8f7b0c5c56473740517927bd8886179.js",
+    "precache-manifest.c1b0a263836e9c5505f1485348b9794b.js": "/lineage-clicker/precache-manifest.c1b0a263836e9c5505f1485348b9794b.js",
     "service-worker.js": "/lineage-clicker/service-worker.js",
-    "static/css/main.17016939.chunk.css.map": "/lineage-clicker/static/css/main.17016939.chunk.css.map",
-    "static/js/2.b1da2a78.chunk.js.LICENSE.txt": "/lineage-clicker/static/js/2.b1da2a78.chunk.js.LICENSE.txt",
+    "static/css/main.a7520e38.chunk.css.map": "/lineage-clicker/static/css/main.a7520e38.chunk.css.map",
+    "static/js/2.b89a4e70.chunk.js.LICENSE.txt": "/lineage-clicker/static/js/2.b89a4e70.chunk.js.LICENSE.txt",
     "static/media/LoginPage.gif": "/lineage-clicker/static/media/LoginPage.7fa843a6.gif",
     "static/media/GamePage.css": "/lineage-clicker/static/media/ObeliskOfVictory.d7499955.PNG",
     "static/media/monster.png": "/lineage-clicker/static/media/monster.dcb928b7.png"
   },
   "entrypoints": [
     "static/js/runtime-main.9f1d96a7.js",
-    "static/js/2.b1da2a78.chunk.js",
-    "static/css/main.17016939.chunk.css",
-    "static/js/main.afa3b931.chunk.js"
+    "static/js/2.b89a4e70.chunk.js",
+    "static/css/main.a7520e38.chunk.css",
+    "static/js/main.c29e317f.chunk.js"
   ]
 }
