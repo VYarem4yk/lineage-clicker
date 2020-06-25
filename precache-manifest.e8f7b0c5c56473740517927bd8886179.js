@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "be13a16cdbbd478de9b0c7d126913768",
+    "revision": "d6dce416244141dd76566e0e7e1a79c9",
     "url": "/lineage-clicker/index.html"
   },
   {
