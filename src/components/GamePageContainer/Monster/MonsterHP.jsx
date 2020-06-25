@@ -4,7 +4,11 @@ import "./Monster.css";
 const MonsterHP = (props) => {
   return (
     <div className="monsterHP">
-      {props.curentMonsterHP}/{props.monsterHP}
+      <div
+        className="hpBG"
+        style={({ background: "red" }, { width: `${props.curentMonsterHP}%` })}
+      ></div>
+      <div>|</div>
     </div>
   );
 };
