@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/lineage-clicker/static/css/main.3b01eba2.chunk.css",
-    "main.js": "/lineage-clicker/static/js/main.c1586ec2.chunk.js",
-    "main.js.map": "/lineage-clicker/static/js/main.c1586ec2.chunk.js.map",
+    "main.css": "/lineage-clicker/static/css/main.ac8873c4.chunk.css",
+    "main.js": "/lineage-clicker/static/js/main.523022e6.chunk.js",
+    "main.js.map": "/lineage-clicker/static/js/main.523022e6.chunk.js.map",
     "runtime-main.js": "/lineage-clicker/static/js/runtime-main.9f1d96a7.js",
     "runtime-main.js.map": "/lineage-clicker/static/js/runtime-main.9f1d96a7.js.map",
     "static/js/2.9fbf18da.chunk.js": "/lineage-clicker/static/js/2.9fbf18da.chunk.js",
     "static/js/2.9fbf18da.chunk.js.map": "/lineage-clicker/static/js/2.9fbf18da.chunk.js.map",
     "index.html": "/lineage-clicker/index.html",
-    "precache-manifest.0352c4096169e405f2c809b8e394bd1c.js": "/lineage-clicker/precache-manifest.0352c4096169e405f2c809b8e394bd1c.js",
+    "precache-manifest.9b5b7757c14e5538e51a045a373b1b7e.js": "/lineage-clicker/precache-manifest.9b5b7757c14e5538e51a045a373b1b7e.js",
     "service-worker.js": "/lineage-clicker/service-worker.js",
-    "static/css/main.3b01eba2.chunk.css.map": "/lineage-clicker/static/css/main.3b01eba2.chunk.css.map",
+    "static/css/main.ac8873c4.chunk.css.map": "/lineage-clicker/static/css/main.ac8873c4.chunk.css.map",
     "static/js/2.9fbf18da.chunk.js.LICENSE.txt": "/lineage-clicker/static/js/2.9fbf18da.chunk.js.LICENSE.txt",
     "static/media/LoginPage.gif": "/lineage-clicker/static/media/LoginPage.7fa843a6.gif",
     "static/media/GamePage.css": "/lineage-clicker/static/media/ObeliskOfVictory.d7499955.PNG",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.9f1d96a7.js",
     "static/js/2.9fbf18da.chunk.js",
-    "static/css/main.3b01eba2.chunk.css",
-    "static/js/main.c1586ec2.chunk.js"
+    "static/css/main.ac8873c4.chunk.css",
+    "static/js/main.523022e6.chunk.js"
   ]
 }
