@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d9db71775fff575cbb8220634f18342f",
+    "revision": "b3ac11b1d1726613597f012d4b2dc156",
     "url": "/lineage-clicker/index.html"
   },
   {
-    "revision": "d1cf1849aa321a4b6ec1",
-    "url": "/lineage-clicker/static/css/main.ac8873c4.chunk.css"
+    "revision": "72299d13e91dccca70fb",
+    "url": "/lineage-clicker/static/css/main.ee50083d.chunk.css"
   },
   {
-    "revision": "160e7e7ed0f2c21ff891",
-    "url": "/lineage-clicker/static/js/2.9fbf18da.chunk.js"
+    "revision": "903af3c81865bc087f29",
+    "url": "/lineage-clicker/static/js/2.94ff064e.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/lineage-clicker/static/js/2.9fbf18da.chunk.js.LICENSE.txt"
+    "url": "/lineage-clicker/static/js/2.94ff064e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d1cf1849aa321a4b6ec1",
-    "url": "/lineage-clicker/static/js/main.523022e6.chunk.js"
+    "revision": "72299d13e91dccca70fb",
+    "url": "/lineage-clicker/static/js/main.58a96ae5.chunk.js"
   },
   {
     "revision": "23c0170dde5110d87c86",
@@ -30,6 +30,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "d7499955c354d0518d1860df783e3190",
     "url": "/lineage-clicker/static/media/ObeliskOfVictory.d7499955.PNG"
+  },
+  {
+    "revision": "a0020620ebc7cc60ebea45276d1c704b",
+    "url": "/lineage-clicker/static/media/adena.a0020620.png"
   },
   {
     "revision": "dcb928b70116e336cb1f0bf323380cbe",
