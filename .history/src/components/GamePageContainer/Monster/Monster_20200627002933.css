@@ -1,0 +1,87 @@
+.monsterWrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.monsterSkin {
+  height: 80%;
+  width: 80%;
+  transition: 1s;
+}
+
+.monsterSkin:hover {
+  height: 90%;
+  width: 90%;
+  transition: 1s;
+}
+
+.monsterHP {
+  display: flex;
+  position: relative;
+  justify-content: start;
+  border: 1px solid black;
+  border-radius: 10px;
+
+  font-size: 10px;
+}
+
+.monsterHP-wrapper {
+  grid-area: 2/2/3/3;
+}
+.hpBG {
+  width: 100%;
+  background-color: red;
+}
+
+.monsterInfo {
+  display: grid;
+  grid-template-rows: 60% 40%;
+  grid-template-columns: 10% 90%;
+  width: 40%;
+
+  font-weight: bold;
+  background-color: rgba(0, 0, 0, 0.726);
+}
+
+.monsterName {
+  grid-area: 1/2/2/3;
+  color: red;
+}
+
+.monsterSideBar {
+  grid-area: 1/1/3/2;
+  background-color: rgb(30, 40, 80);
+  border-top: rgb(232, 204, 167) 2px solid;
+  border-bottom: rgb(232, 204, 167) 2px solid;
+  border-left: grey 2px solid;
+  border-right: grey 2px solid;
+  border-radius: 3px;
+}
+
+.nextEnemy {
+  background-color: rgb(30, 40, 80);
+  border-left: rgb(232, 204, 167) 2px solid;
+  border-right: rgb(232, 204, 167) 2px solid;
+  border-bottom: grey 2px solid;
+  border-top: grey 2px solid;
+  color: white;
+  width: 40%;
+}
+
+.monsterClickArea {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.adenaDrop {
+  height: 50px;
+  width: 50px;
+}
+
+.drop {
+  display: flex;
+  align-items: center;
+}

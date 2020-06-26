@@ -1,0 +1,71 @@
+.characterBar {
+  width: 40%;
+  height: 100%;
+  display: grid;
+  grid-template-rows: 25% 25% 25% 25%;
+  grid-template-columns: 15% 80%;
+  margin: 5px;
+  background-color: rgba(128, 128, 128, 0.5);
+}
+
+.heroSideBar {
+  grid-area: 1/1/5/2;
+  background-color: rgb(30, 40, 80);
+  border-top: rgb(232, 204, 167) 2px solid;
+  border-bottom: rgb(232, 204, 167) 2px solid;
+  border-left: grey 2px solid;
+  border-right: grey 2px solid;
+  border-radius: 3px;
+}
+.barMP {
+  grid-row: 2/3;
+}
+.characterMP {
+  background-color: blue;
+
+  border: 1px solid black;
+}
+.barXP {
+  grid-row: 3/4;
+}
+.characterXP {
+  background-color: rgb(184, 182, 182);
+
+  border: 1px solid black;
+}
+.barHP {
+  grid-row: 1/2;
+}
+.characterHP {
+  background-color: red;
+
+  border: 1px solid black;
+}
+
+.bar {
+  display: grid;
+  grid-template-rows: 30% 30% 30%;
+  grid-area: 2/2/5/3;
+  row-gap: 3%;
+  font-size: 13px;
+  color: white;
+}
+
+.heroInfo {
+  display: grid;
+  grid-template-columns: 25% 70%;
+  grid-gap: 5%;
+  grid-area: 1/2/2/3;
+}
+
+.heroInfo .heroLevel {
+  grid-column: 1/2;
+  color: rgb(150, 150, 150);
+  background-color: rgba(0, 0, 0, 0.431);
+  margin: 2px;
+}
+
+.heroName {
+  grid-column: 2/3;
+  color: white;
+}
