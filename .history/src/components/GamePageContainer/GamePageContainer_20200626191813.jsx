@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import GamePage from "./GamePage/GamePage";
 import { monsterAtacked, monsterKilled } from "../../redux/monsterReducer";
-import { xpGain, levelUp } from "../../redux/characterReducer";
+import { xpGain } from "../../redux/characterReducer";
 import { connect } from "react-redux";
 
 class GamePageContainer extends Component {
@@ -12,7 +12,6 @@ class GamePageContainer extends Component {
         monsterAtacked={this.props.monsterAtacked}
         monsterKilled={this.props.monsterKilled}
         xpGain={this.props.xpGain}
-        levelUp={this.props.levelUp}
       />
     );
   }
@@ -27,5 +26,5 @@ export default connect(mapStateToProps, {
   monsterAtacked,
   monsterKilled,
   xpGain,
-  levelUp,
+  
 })(GamePageContainer);

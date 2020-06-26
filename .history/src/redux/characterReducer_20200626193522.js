@@ -2,11 +2,11 @@ const XP_GAIN = "XP_GAIN";
 const LEVEL_UP = "LEVEL_UP";
 
 let initialState = {
-  characterLVL: 1,
   characterHP: 100,
-  characterDMG: 30,
+  characterDMG: 10*cha,
   characterMP: 100,
   characterXP: 0,
+  characterLVL: 1,
 };
 
 export const characterReducer = (state = initialState, action) => {

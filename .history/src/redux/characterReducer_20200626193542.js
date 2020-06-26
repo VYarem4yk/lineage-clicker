@@ -4,7 +4,7 @@ const LEVEL_UP = "LEVEL_UP";
 let initialState = {
   characterLVL: 1,
   characterHP: 100,
-  characterDMG: 30,
+  characterDMG: 10,
   characterMP: 100,
   characterXP: 0,
 };

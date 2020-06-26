@@ -9,7 +9,7 @@ const CharacterBar = (props) => {
     <div className="characterBar">
       <div className="heroSideBar"></div>
       <div className="heroInfo">
-        <div className="heroLevel">{props.character.characterLVL}</div>
+        <div className="heroLevel">1</div>
         <div className="heroName">Ange1ok</div>
       </div>
 
@@ -21,10 +21,7 @@ const CharacterBar = (props) => {
           <CharacterMP characterMP={props.character.characterMP} />
         </div>
         <div className="barXP">
-          <CharacterXP
-            characterXP={props.character.characterXP}
-            levelUp={props.levelUp}
-          />
+          <CharacterXP characterXP={props.character.characterXP} />
         </div>
       </div>
     </div>

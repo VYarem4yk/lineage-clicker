@@ -7,9 +7,7 @@ const MonsterHP = (props) => {
       <div
         className="hpBG"
         style={({ background: "red" }, { width: `${props.curentMonsterHP}%` })}
-      >
-        {props.curentMonsterHP}
-      </div>
+      ></div>
       <div>|</div>
     </div>
   );

@@ -12,7 +12,7 @@ class GamePageContainer extends Component {
         monsterAtacked={this.props.monsterAtacked}
         monsterKilled={this.props.monsterKilled}
         xpGain={this.props.xpGain}
-        levelUp={this.props.levelUp}
+        levelUp={}
       />
     );
   }

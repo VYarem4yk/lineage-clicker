@@ -6,11 +6,7 @@ const GamePage = (props) => {
   return (
     <div className="gamePageWrapper">
       <div className="characterBar-wrapper">
-        <CharacterBar
-          character={props.character}
-          monster={props.monster}
-          levelUp={props.levelUp}
-        />
+        <CharacterBar character={props.character} monster={props.monster} />
       </div>
       <div className="mainField">
         <div className="monster">

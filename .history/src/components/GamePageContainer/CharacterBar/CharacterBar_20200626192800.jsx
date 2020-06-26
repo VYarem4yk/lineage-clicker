@@ -9,7 +9,7 @@ const CharacterBar = (props) => {
     <div className="characterBar">
       <div className="heroSideBar"></div>
       <div className="heroInfo">
-        <div className="heroLevel">{props.character.characterLVL}</div>
+        <div className="heroLevel">{props.character.characterLVL - 1}</div>
         <div className="heroName">Ange1ok</div>
       </div>
 
