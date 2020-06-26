@@ -21,6 +21,7 @@ let initialState = {
     level_13: 13904,
     level_14: 15824,
     level_15: 20485,
+   
   },
   characterHP: 100,
   characterDMG: 15,

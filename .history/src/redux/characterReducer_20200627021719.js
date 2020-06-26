@@ -6,21 +6,7 @@ const INCREASE_DMG = "INCREASE_DMG";
 let initialState = {
   characterLVL: 1,
   experienceForLvl: {
-    level_1: 700,
-    level_2: 900,
-    level_3: 1000,
-    level_4: 1100,
-    level_5: 1300,
-    level_6: 1700,
-    level_7: 2200,
-    level_8: 3200,
-    level_9: 4300,
-    level_10: 5664,
-    level_11: 7896,
-    level_12: 10672,
-    level_13: 13904,
-    level_14: 15824,
-    level_15: 20485,
+1
   },
   characterHP: 100,
   characterDMG: 15,

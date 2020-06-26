@@ -22,9 +22,9 @@ const CharacterBar = (props) => {
         </div>
         <div className="barXP">
           <CharacterXP
-            experienceForLvl={props.character.experienceForLvl}
+          experienceForLvl={props.character.experienceForLvl}
             characterXP={props.character.characterXP}
-            characterLVL={props.character.characterLVL}
+            
             levelUp={props.levelUp}
           />
         </div>

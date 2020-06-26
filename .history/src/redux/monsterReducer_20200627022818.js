@@ -6,7 +6,7 @@ let initialState = {
   monsterHP: 100,
   curentMonsterHP: 100,
   monsterDMG: 10,
-  monsterXP: 250,
+  monsterXP: 2,
   isMonsterDead: false,
   dropAdena: 10,
 };

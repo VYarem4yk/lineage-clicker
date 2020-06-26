@@ -6,7 +6,7 @@ import adena from "../../../images/adena.png";
 
 const Monster = (props) => {
   let atackMonster = (e) => {
-    e.preventDefault();
+    preventDefault();
     let characterAtackPower = Math.ceil(
       props.characterDMG + 10 * Math.random()
     );
