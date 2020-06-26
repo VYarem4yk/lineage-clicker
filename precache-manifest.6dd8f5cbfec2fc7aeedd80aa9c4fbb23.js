@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "249b30538a84df8f04efedd347349026",
+    "revision": "c8a6a12d57b0ce67c784fee105ae5b63",
     "url": "/lineage-clicker/index.html"
   },
   {
-    "revision": "9a48f4de2ddfcbca7e84",
-    "url": "/lineage-clicker/static/css/main.ee50083d.chunk.css"
+    "revision": "8b94168edea3c6cea834",
+    "url": "/lineage-clicker/static/css/main.fe1aa7c8.chunk.css"
   },
   {
-    "revision": "903af3c81865bc087f29",
-    "url": "/lineage-clicker/static/js/2.94ff064e.chunk.js"
+    "revision": "6d5a388a0876a6f7d666",
+    "url": "/lineage-clicker/static/js/2.9376e6cc.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/lineage-clicker/static/js/2.94ff064e.chunk.js.LICENSE.txt"
+    "url": "/lineage-clicker/static/js/2.9376e6cc.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9a48f4de2ddfcbca7e84",
-    "url": "/lineage-clicker/static/js/main.e849047a.chunk.js"
+    "revision": "8b94168edea3c6cea834",
+    "url": "/lineage-clicker/static/js/main.065fd1e5.chunk.js"
   },
   {
     "revision": "23c0170dde5110d87c86",
