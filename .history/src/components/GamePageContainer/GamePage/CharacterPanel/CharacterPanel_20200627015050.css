@@ -1,0 +1,17 @@
+.characterCharacteristic {
+  color: white;
+}
+
+.increaceCharacteristic {
+  display: flex;
+  align-items: center;
+  color: white;
+  font-weight: bold;
+  background-color: rgb(30, 40, 80);
+  border-top: rgb(232, 204, 167) 2px solid;
+  border-bottom: rgb(232, 204, 167) 2px solid;
+  border-left: grey 2px solid;
+  border-right: grey 2px solid;
+  height: 15px;
+  width: 15px;
+}

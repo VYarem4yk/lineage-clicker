@@ -1,0 +1,20 @@
+.characterCharacteristic-wrapper {
+  display: flex;
+}
+
+.characterCharacteristic {
+  color: white;
+}
+
+.increaceCharacteristic {
+  color: white;
+  font-weight: bold;
+  background-color: rgb(30, 40, 80);
+  border-top: rgb(232, 204, 167) 2px solid;
+  border-bottom: rgb(232, 204, 167) 2px solid;
+  border-left: grey 2px solid;
+  border-right: grey 2px solid;
+  font-size: 10px;
+  height: 15px;
+  width: 15px;
+}
