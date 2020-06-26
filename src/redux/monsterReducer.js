@@ -5,7 +5,7 @@ let initialState = {
   monsterHP: 100,
   curentMonsterHP: 100,
   monsterDMG: 10,
-  monsterXP: 5,
+  monsterXP: 15,
 };
 
 export const monsterReducer = (state = initialState, action) => {
