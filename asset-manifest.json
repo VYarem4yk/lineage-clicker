@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/lineage-clicker/static/css/main.a4dbd8aa.chunk.css",
-    "main.js": "/lineage-clicker/static/js/main.25e5c56f.chunk.js",
-    "main.js.map": "/lineage-clicker/static/js/main.25e5c56f.chunk.js.map",
+    "main.js": "/lineage-clicker/static/js/main.3e6c46f6.chunk.js",
+    "main.js.map": "/lineage-clicker/static/js/main.3e6c46f6.chunk.js.map",
     "runtime-main.js": "/lineage-clicker/static/js/runtime-main.9f1d96a7.js",
     "runtime-main.js.map": "/lineage-clicker/static/js/runtime-main.9f1d96a7.js.map",
     "static/js/2.27b28ab2.chunk.js": "/lineage-clicker/static/js/2.27b28ab2.chunk.js",
     "static/js/2.27b28ab2.chunk.js.map": "/lineage-clicker/static/js/2.27b28ab2.chunk.js.map",
     "index.html": "/lineage-clicker/index.html",
-    "precache-manifest.616e710975aa5e1abbe413a93e8fbab9.js": "/lineage-clicker/precache-manifest.616e710975aa5e1abbe413a93e8fbab9.js",
+    "precache-manifest.379c2857b4d74bbf2c64c25f08db6598.js": "/lineage-clicker/precache-manifest.379c2857b4d74bbf2c64c25f08db6598.js",
     "service-worker.js": "/lineage-clicker/service-worker.js",
     "static/css/main.a4dbd8aa.chunk.css.map": "/lineage-clicker/static/css/main.a4dbd8aa.chunk.css.map",
     "static/js/2.27b28ab2.chunk.js.LICENSE.txt": "/lineage-clicker/static/js/2.27b28ab2.chunk.js.LICENSE.txt",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.9f1d96a7.js",
     "static/js/2.27b28ab2.chunk.js",
     "static/css/main.a4dbd8aa.chunk.css",
-    "static/js/main.25e5c56f.chunk.js"
+    "static/js/main.3e6c46f6.chunk.js"
   ]
 }
