@@ -8,7 +8,7 @@ let initialState = {
   monsterDMG: 10,
   monsterXP: 15,
   isMonsterDead: false,
-  dropAdena: 10,
+  d
 };
 
 export const monsterReducer = (state = initialState, action) => {

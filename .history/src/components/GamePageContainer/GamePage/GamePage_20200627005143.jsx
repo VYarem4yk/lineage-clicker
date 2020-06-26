@@ -3,6 +3,7 @@ import "./GamePage.css";
 import CharacterBar from "../CharacterBar/CharacterBar";
 import Monster from "../Monster/Monster";
 const GamePage = (props) => {
+  
   return (
     <div className="gamePageWrapper">
       <div className="characterBar-wrapper">
@@ -13,7 +14,7 @@ const GamePage = (props) => {
             levelUp={props.levelUp}
           />
         </div>
-        <div>Adena: {props.character.characterAdena}</div>
+        <div>Adena: {props.character.characterAdena * Math.random()}</div>
       </div>
       <div className="mainField">
         <div className="monster">

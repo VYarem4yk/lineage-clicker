@@ -1,11 +1,11 @@
 const XP_GAIN = "XP_GAIN";
 const LEVEL_UP = "LEVEL_UP";
-const PICK_ADENA_UP = "PICK_ADENA_UP";
+const PICK_ADENA_
 
 let initialState = {
   characterLVL: 1,
   characterHP: 100,
-  characterDMG: 15,
+  characterDMG: 30,
   characterMP: 100,
   characterXP: 0,
   characterAdena: 0,
@@ -26,13 +26,6 @@ export const characterReducer = (state = initialState, action) => {
       return stateCopy;
     }
 
-    case PICK_ADENA_UP: {
-      let stateCopy = { ...state };
-      stateCopy.characterAdena += action.adena;
-
-      return stateCopy;
-    }
-
     default:
       return state;
   }
@@ -40,4 +33,4 @@ export const characterReducer = (state = initialState, action) => {
 
 export const xpGain = (gainedXP) => ({ type: XP_GAIN, xp: gainedXP });
 export const levelUp = () => ({ type: LEVEL_UP });
-export const pickAdenaUp = (adena) => ({ type: PICK_ADENA_UP, adena: adena });
+export const pickAdenaUp = (adena)=> ({type:})

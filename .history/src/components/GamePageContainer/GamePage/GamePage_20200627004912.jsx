@@ -13,7 +13,7 @@ const GamePage = (props) => {
             levelUp={props.levelUp}
           />
         </div>
-        <div>Adena: {props.character.characterAdena}</div>
+        <div>Adena: {p}</div>
       </div>
       <div className="mainField">
         <div className="monster">

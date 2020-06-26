@@ -5,7 +5,7 @@ const PICK_ADENA_UP = "PICK_ADENA_UP";
 let initialState = {
   characterLVL: 1,
   characterHP: 100,
-  characterDMG: 15,
+  characterDMG: 11,
   characterMP: 100,
   characterXP: 0,
   characterAdena: 0,

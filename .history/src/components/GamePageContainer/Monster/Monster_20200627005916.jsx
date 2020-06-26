@@ -6,11 +6,9 @@ import adena from "../../../images/adena.png";
 
 const Monster = (props) => {
   let atackMonster = () => {
-    let characterAtackPower = Math.ceil(
-      props.characterDMG + 10 * Math.random()
-    );
-    if (props.monster.curentMonsterHP >= characterAtackPower) {
-      props.monsterAtacked(characterAtackPower);
+    let characterAtackPower = Math.ceil(props.characterDMG * Math.random());
+    if (props.monster.curentMonsterHP >= props.characterDMG) {
+      props.monsterAtacked(props.characterDMG);
     } else {
       props.xpGain(props.monster.monsterXP);
       props.monsterKilled();

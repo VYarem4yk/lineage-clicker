@@ -13,7 +13,7 @@ const GamePage = (props) => {
             levelUp={props.levelUp}
           />
         </div>
-        <div>Adena: {props.character.characterAdena}</div>
+        <div>Adena: 10000</div>
       </div>
       <div className="mainField">
         <div className="monster">
@@ -24,7 +24,7 @@ const GamePage = (props) => {
             characterDMG={props.character.characterDMG}
             monsterKilled={props.monsterKilled}
             nextEnemy={props.nextEnemy}
-            pickAdenaUp={props.pickAdenaUp}
+            pickAdenaUp={props.p}
           />
         </div>
       </div>

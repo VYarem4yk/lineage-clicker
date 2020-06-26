@@ -13,7 +13,7 @@ const GamePage = (props) => {
             levelUp={props.levelUp}
           />
         </div>
-        <div>Adena: {props.character.characterAdena}</div>
+        <div>Adena: {props.character.characterAdena * Math.random()}</div>
       </div>
       <div className="mainField">
         <div className="monster">

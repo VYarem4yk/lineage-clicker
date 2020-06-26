@@ -18,7 +18,6 @@ class GamePageContainer extends Component {
         xpGain={this.props.xpGain}
         levelUp={this.props.levelUp}
         nextEnemy={this.props.nextEnemy}
-        pickAdenaUp={this.props.pickAdenaUp}
       />
     );
   }
@@ -35,5 +34,4 @@ export default connect(mapStateToProps, {
   xpGain,
   levelUp,
   nextEnemy,
-  pickAdenaUp,
 })(GamePageContainer);
