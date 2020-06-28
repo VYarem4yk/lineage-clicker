@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/lineage-clicker/static/css/main.0346ff8f.chunk.css",
-    "main.js": "/lineage-clicker/static/js/main.44b889aa.chunk.js",
-    "main.js.map": "/lineage-clicker/static/js/main.44b889aa.chunk.js.map",
+    "main.js": "/lineage-clicker/static/js/main.dd53f66b.chunk.js",
+    "main.js.map": "/lineage-clicker/static/js/main.dd53f66b.chunk.js.map",
     "runtime-main.js": "/lineage-clicker/static/js/runtime-main.9f1d96a7.js",
     "runtime-main.js.map": "/lineage-clicker/static/js/runtime-main.9f1d96a7.js.map",
     "static/js/2.9376e6cc.chunk.js": "/lineage-clicker/static/js/2.9376e6cc.chunk.js",
     "static/js/2.9376e6cc.chunk.js.map": "/lineage-clicker/static/js/2.9376e6cc.chunk.js.map",
     "index.html": "/lineage-clicker/index.html",
-    "precache-manifest.4eaecb9b31bea8646ad60e9f3a1e3de3.js": "/lineage-clicker/precache-manifest.4eaecb9b31bea8646ad60e9f3a1e3de3.js",
+    "precache-manifest.0e4cdbfb3b2371455510171dc4290de8.js": "/lineage-clicker/precache-manifest.0e4cdbfb3b2371455510171dc4290de8.js",
     "service-worker.js": "/lineage-clicker/service-worker.js",
     "static/css/main.0346ff8f.chunk.css.map": "/lineage-clicker/static/css/main.0346ff8f.chunk.css.map",
     "static/js/2.9376e6cc.chunk.js.LICENSE.txt": "/lineage-clicker/static/js/2.9376e6cc.chunk.js.LICENSE.txt",
     "static/media/LoginPage.gif": "/lineage-clicker/static/media/LoginPage.7fa843a6.gif",
     "static/media/GamePage.css": "/lineage-clicker/static/media/ObeliskOfVictory.d7499955.PNG",
     "static/media/adena.png": "/lineage-clicker/static/media/adena.a0020620.png",
-    "static/media/monster.png": "/lineage-clicker/static/media/monster.dcb928b7.png"
+    "static/media/monster.png": "/lineage-clicker/static/media/monster.aca52e62.png"
   },
   "entrypoints": [
     "static/js/runtime-main.9f1d96a7.js",
     "static/js/2.9376e6cc.chunk.js",
     "static/css/main.0346ff8f.chunk.css",
-    "static/js/main.44b889aa.chunk.js"
+    "static/js/main.dd53f66b.chunk.js"
   ]
 }

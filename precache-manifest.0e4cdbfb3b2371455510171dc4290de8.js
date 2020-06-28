@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6ef1ec23ea6a7c9b88cd7012944ab4f1",
+    "revision": "6990aad90cde3dd938200a590f1dd600",
     "url": "/lineage-clicker/index.html"
   },
   {
-    "revision": "a7710d9785755782dc36",
+    "revision": "cb10577b7976a8d7f6ed",
     "url": "/lineage-clicker/static/css/main.0346ff8f.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lineage-clicker/static/js/2.9376e6cc.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a7710d9785755782dc36",
-    "url": "/lineage-clicker/static/js/main.44b889aa.chunk.js"
+    "revision": "cb10577b7976a8d7f6ed",
+    "url": "/lineage-clicker/static/js/main.dd53f66b.chunk.js"
   },
   {
     "revision": "23c0170dde5110d87c86",
@@ -36,7 +36,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lineage-clicker/static/media/adena.a0020620.png"
   },
   {
-    "revision": "dcb928b70116e336cb1f0bf323380cbe",
-    "url": "/lineage-clicker/static/media/monster.dcb928b7.png"
+    "revision": "aca52e62d0ec23b0604c7232b6302a49",
+    "url": "/lineage-clicker/static/media/monster.aca52e62.png"
   }
 ]);
